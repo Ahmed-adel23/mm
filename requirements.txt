@@ -4,8 +4,8 @@ Keras
 keras-nightly
 Keras-Preprocessing
 numpy
+pandas
 tensorflow
 opencv-python-headless
 Pillow
 flask_restful
-pandas
