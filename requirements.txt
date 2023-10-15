@@ -4,8 +4,5 @@ Flask_RESTful==0.3.10
 numpy==1.24.3
 opencv_python==4.8.0.76
 pandas==2.0.3
-Pillow==10.0.0
 Pillow==10.1.0
 tensorflow==2.13.0
-tensorflow_intel==2.13.0
-Werkzeug==3.0.0
