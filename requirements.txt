@@ -1,9 +1,9 @@
-Flask==3.0.0
-Flask_Cors==4.0.0
-Flask_RESTful==0.3.10
-numpy==1.24.3
-opencv_python==4.8.0.76
-pandas==2.0.3
-Pillow==10.1.0
-tensorflow==2.13.0
+Flask
+Flask_Cors
+Flask_RESTful
+numpy
+opencv_python
+pandas
+Pillow
+tensorflow
 gunicorn
