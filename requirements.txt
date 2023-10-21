@@ -6,3 +6,4 @@ opencv_python==4.8.0.76
 pandas==2.0.3
 Pillow==10.1.0
 tensorflow==2.13.0
+gunicorn
